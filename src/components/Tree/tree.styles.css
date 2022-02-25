@@ -1,0 +1,27 @@
+#treeWrapper {
+  width: 100vw;
+  height: 100vh;
+}
+.tree-path {
+  stroke: #58a6ff !important;
+}
+.root-node {
+  fill: rgb(255, 255, 255) !important;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.branch-node {
+  fill: whitesmoke !important;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.leaf-node {
+  fill: whitesmoke !important;
+  font-size: 1em;
+  font-weight: bold;
+}
+.leaf-node > circle {
+  fill: #6e6f70 !important;
+}
