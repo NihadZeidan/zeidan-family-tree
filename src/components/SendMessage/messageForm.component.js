@@ -18,10 +18,12 @@ function MessageForm({ setOpenMessageForm }) {
         },
         (error) => {
           console.log(error.text);
+          alert("لم يتم ارسال الرسالة ... حاول مرة اخرى في وقت لاحق");
         }
       );
 
     e.target.reset();
+    alert("تم ارسال الرسالة بنجاح");
   };
 
   return (
@@ -40,7 +42,11 @@ function MessageForm({ setOpenMessageForm }) {
         <label className="label" htmlFor="phoneNumber">
           رقم الهاتف (إن وجد)
         </label>
-        <input type="number" className="input-from-message" name="phoneNumber" />
+        <input
+          type="number"
+          className="input-from-message"
+          name="phoneNumber"
+        />
         <br />
         <label className="label" htmlFor="name">
           الرسالة
