@@ -4,10 +4,10 @@ function Header({ setOpenMessageForm, openMessageForm }) {
   return (
     <header id="header">
       <div id="title">
-        <h1>Zeidan's Family Tree</h1>
-        <h1>شجرة عائلة زيدان</h1>
+        <h1>Zeidan's Family Tree - Beitjala</h1>
+        <h1>شجرة عائلة زيدان - بيت جالا</h1>
       </div>
-      <h4 id="supervision">اعداد : نهاد عماد فكتور زيدان</h4>
+      <h4 id="supervision">اعداد : نهاد عماد فكتور جادالله عبدالله زيدان</h4>
 
       <button
         id="button"

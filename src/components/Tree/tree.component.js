@@ -8,7 +8,7 @@ export default function ZeidanFamilyTree() {
       <Tree
         depthFactor={130}
         // initialDepth={1}
-        zoom={0.8}
+        zoom={0.4}
         data={zeidan}
         enableLegacyTransitions={true}
         separation={{ siblings: 2, nonSiblings: 1.5 }}
