@@ -2,7 +2,7 @@
   "name": "zeidan-family-tree",
   "homepage": "https://nihadzeidan.github.io/zeidan-family-tree",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@testing-library/jest-dom": "^5.16.2",
