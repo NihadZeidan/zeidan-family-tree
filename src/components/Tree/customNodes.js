@@ -82,7 +82,7 @@ export const femaleNode = (nodeDatum, toggleNode) => (
 
     <svg x="5" xmlns="http://www.w3.org/2000/svg" onClick={toggleNode}>
       <g>
-        <rect width="50" height="50" fill="#58a6ff"></rect>
+        <rect width="50" height="50" fill="#fefefefe"></rect>
         <text
           x="20"
           y="30"

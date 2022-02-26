@@ -22,12 +22,12 @@ export default function ZeidanFamilyTree() {
     <div id="treeWrapper">
       <Tree
         renderCustomNodeElement={renderCustomSvgNode}
-        depthFactor={130}
+        depthFactor={200}
         // initialDepth={1}
         zoom={0.4}
         data={zeidan}
         enableLegacyTransitions={true}
-        separation={{ siblings: 2, nonSiblings: 1.5 }}
+        separation={{ siblings: 2, nonSiblings: 2 }}
         transitionDuration={300}
         orientation="vertical"
         pathClassFunc={() => "tree-path"}
