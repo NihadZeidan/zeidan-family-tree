@@ -251,8 +251,35 @@
             },
             {
               "name": "شكري",
-              "wife": null,
-              "gender": "male"
+              "wife": "صالحة عودة",
+              "gender": "male",
+              "children": [
+                {
+                  "name": "ليلى",
+                  "gender": "female",
+                  "husband": "خضر زيدان"
+                },
+                {
+                  "name": "سامية",
+                  "gender": "female",
+                  "husband": "نخلة كعبر"
+                },
+                {
+                  "name": "سمير",
+                  "gender": "male",
+                  "wife": null
+                },
+                {
+                  "name": "اسعد",
+                  "gender": "male",
+                  "wife": null
+                },
+                {
+                  "name": "سعيد",
+                  "gender": "male",
+                  "wife": null
+                }
+              ]
             }
           ]
         },
