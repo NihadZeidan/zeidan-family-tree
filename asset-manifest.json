@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zeidan-family-tree/static/css/main.4e9ac2a6.css",
-    "main.js": "/zeidan-family-tree/static/js/main.25f5b194.js",
+    "main.js": "/zeidan-family-tree/static/js/main.841fedb7.js",
     "static/js/787.5b96e7e2.chunk.js": "/zeidan-family-tree/static/js/787.5b96e7e2.chunk.js",
     "index.html": "/zeidan-family-tree/index.html",
     "main.4e9ac2a6.css.map": "/zeidan-family-tree/static/css/main.4e9ac2a6.css.map",
-    "main.25f5b194.js.map": "/zeidan-family-tree/static/js/main.25f5b194.js.map",
+    "main.841fedb7.js.map": "/zeidan-family-tree/static/js/main.841fedb7.js.map",
     "787.5b96e7e2.chunk.js.map": "/zeidan-family-tree/static/js/787.5b96e7e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e9ac2a6.css",
-    "static/js/main.25f5b194.js"
+    "static/js/main.841fedb7.js"
   ]
 }
