@@ -40,13 +40,19 @@ function MessageForm({ setOpenMessageForm }) {
         />
         <br />
         <label className="label" htmlFor="phoneNumber">
-          رقم الهاتف (إن وجد)
+          رقم الهاتف (اختياري)
         </label>
         <input
           type="number"
           className="input-from-message"
           name="phoneNumber"
         />
+        <br />
+
+        <label className="label" htmlFor="email">
+          البريد الألكتروني (اختياري)
+        </label>
+        <input type="email" className="input-from-message" name="email" />
         <br />
         <label className="label" htmlFor="name">
           الرسالة
@@ -59,18 +65,19 @@ function MessageForm({ setOpenMessageForm }) {
           name="message"
           placeholder="اذكر رسالتك هنا"
         />
+
         <br />
 
         <div id="buttons">
-          <button className="button" type="submit">
-            أرسال
-          </button>
           <button
-            className="button"
+            className="closeButton"
             type="button"
             onClick={() => setOpenMessageForm(false)}
           >
             أغلاق
+          </button>
+          <button className="button" type="submit">
+            أرسال
           </button>
         </div>
       </form>

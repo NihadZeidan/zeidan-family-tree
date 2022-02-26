@@ -5,10 +5,11 @@ export const mainNode = (nodeDatum, toggleNode) => (
       <text
         x="15"
         y="35"
-        font-family="Arial"
+        alignmentBaseline="middle"
         font-size="20"
         fill="black"
-        fontWeight="normal"
+        text-align="center"
+        fontWeight={5}
       >
         {nodeDatum.name}
       </text>
@@ -24,10 +25,11 @@ export const maleNode = (nodeDatum, toggleNode) => (
         <text
           x="7"
           y="28"
-          font-family="Arial"
+          alignmentBaseline="middle"
           font-size="20"
+          text-align="center"
           fill="black"
-          fontWeight="normal"
+          fontWeight={5}
         >
           {nodeDatum.name}
         </text>
@@ -45,11 +47,12 @@ export const maleNode = (nodeDatum, toggleNode) => (
         <text
           x="35"
           y="35"
-          font-family="Arial"
-          font-size="15"
+          text-align="center"
+          alignmentBaseline="middle"
+          font-size="20"
           text-anchor="middle"
+          fontWeight={5}
           fill="black"
-          dy=".3em"
         >
           {nodeDatum.wife ? nodeDatum.wife : "؟"}
         </text>
@@ -71,11 +74,12 @@ export const femaleNode = (nodeDatum, toggleNode) => (
         <text
           x="35"
           y="35"
-          font-family="Arial"
+          text-align="center"
+          alignmentBaseline="middle"
           font-size="20"
           text-anchor="middle"
+          fontWeight={5}
           fill="black"
-          dy=".3em"
         >
           {nodeDatum.name}
         </text>
@@ -88,7 +92,8 @@ export const femaleNode = (nodeDatum, toggleNode) => (
         <text
           x="10"
           y="30"
-          font-family="Arial"
+          text-align="center"
+          alignmentBaseline="middle"
           font-size="20"
           fill="black"
           fontWeight="normal"

@@ -9,15 +9,16 @@
       "wife": "ماري قطان",
       "children": [
         {
-          "name": "هيلانة",
-          "gender": "female",
-          "husband": "?"
-        },
-        {
           "name": "صوفيا",
           "gender": "female",
           "husband": "?"
         },
+        {
+          "name": "هيلانة",
+          "gender": "female",
+          "husband": "?"
+        },
+
         {
           "name": "جادالله",
           "wife": "فرحة منصور",
@@ -29,9 +30,47 @@
               "gender": "male",
               "children": [
                 {
-                  "name": "عيدا",
+                  "name": "فيولا",
+                  "gender": "female",
+                  "husband": "ميشيل رباع"
+                },
+                {
+                  "name": "افلين",
+                  "gender": "female",
+                  "husband": "ايوب حداد"
+                },
+                {
+                  "name": "كليمنس",
+                  "gender": "female",
+                  "husband": "ايميل صالح"
+                },
+
+                {
+                  "name": "ليلى",
+                  "gender": "female",
+                  "husband": "نعيم رباع"
+                },
+
+                {
+                  "name": "مارغو",
+                  "gender": "female",
+                  "husband": "عائلة مطر"
+                },
+
+                {
+                  "name": "ريما",
+                  "gender": "female",
+                  "husband": "عائلة كعبر"
+                },
+                {
+                  "name": "فريال",
                   "gender": "female",
                   "husband": null
+                },
+                {
+                  "name": "عيدا",
+                  "gender": "female",
+                  "husband": "ايميل"
                 },
                 {
                   "name": "عبدالله",
@@ -78,12 +117,12 @@
                 {
                   "name": "موريس",
                   "gender": "male",
-                  "wife": null
+                  "wife": "مها فرحات"
                 },
                 {
                   "name": "الفريد",
                   "gender": "male",
-                  "wife": null
+                  "wife": "سميرة سمندر"
                 },
                 {
                   "name": "البير",
@@ -94,7 +133,7 @@
                 {
                   "name": "جريس",
                   "gender": "male",
-                  "wife": null
+                  "wife": "ميري زيدان"
                 }
               ]
             },
@@ -230,7 +269,17 @@
             {
               "name": "اولقا",
               "gender": "female",
-              "husband": "?"
+              "husband": "عيسى خروفة"
+            },
+            {
+              "name": "رضا",
+              "gender": "female",
+              "husband": "هنري"
+            },
+            {
+              "name": "فكتوريا",
+              "gender": "female",
+              "husband": "جرس مصلح"
             },
             {
               "name": "جبرا",
@@ -247,7 +296,36 @@
         {
           "name": "عطاالله",
           "wife": "اليونانية",
-          "gender": "male"
+          "gender": "male",
+          "children": [
+            {
+              "name": "سابا",
+              "gender": "male",
+              "wife": "اليونانية",
+              "children": [
+                {
+                  "name": "يورغو",
+                  "gender": "male",
+                  "wife": "نادية شحادة"
+                },
+                {
+                  "name": "خريستو",
+                  "gender": "male",
+                  "wife": "التركية"
+                },
+                {
+                  "name": "بنايوت",
+                  "gender": "male",
+                  "wife": null
+                },
+                {
+                  "name": "ايليا",
+                  "gender": "male",
+                  "wife": null
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "فرح",
