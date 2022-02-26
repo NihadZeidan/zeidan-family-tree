@@ -1,60 +1,90 @@
 {
   "name": "زيدان",
+  "gender": "male",
+  "main": true,
   "children": [
     {
       "name": "عبدالله",
+      "gender": "male",
+      "wife": "ماري قطان",
       "children": [
         {
-          "name": "هيلانة"
+          "name": "هيلانة",
+          "gender": "female",
+          "husband": "?"
         },
         {
-          "name": "صوفيا"
+          "name": "صوفيا",
+          "gender": "female",
+          "husband": "?"
         },
         {
           "name": "جادالله",
+          "wife": "فرحة منصور",
+          "gender": "male",
           "attributes": {
             "زوجته": "فرحة منصور"
           },
           "children": [
             {
-              "name": "جميل"
+              "name": "جميل",
+              "wife": null,
+              "gender": "male"
             },
             {
-              "name": "توفيق"
+              "name": "توفيق",
+              "wife": null,
+              "gender": "male"
             },
             {
-              "name": "جورج"
+              "name": "جورج",
+              "wife": null,
+              "gender": "male"
             },
             {
-              "name": "فكتور"
+              "name": "فكتور",
+              "wife": null,
+              "gender": "male"
             },
             {
-              "name": "شكري"
+              "name": "شكري",
+              "wife": null,
+              "gender": "male"
             }
           ]
         },
         {
-          "name": "صليبة",
+          "name": "صليبا",
+          "wife": null,
+          "gender": "male",
           "children": [
             {
-              "name": "جبرة"
+              "name": "جبرا",
+              "gender": "male"
             },
             {
-              "name": "بشارة"
+              "name": "بشارة",
+              "gender": "male"
             },
             {
-              "name": "فريدة"
+              "name": "فريدة",
+              "gender": "female",
+              "husband": "?"
             },
             {
-              "name": "اولفا"
+              "name": "اولقا",
+              "gender": "female",
+              "husband": "?"
             }
           ]
         },
         {
-          "name": "عطاالله"
+          "name": "عطاالله",
+          "gender": "male"
         },
         {
-          "name": "فرح"
+          "name": "فرح",
+          "gender": "male"
         }
       ]
     }
