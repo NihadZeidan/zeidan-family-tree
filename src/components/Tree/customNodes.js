@@ -34,20 +34,17 @@ export const maleNode = (nodeDatum, toggleNode) => (
       </g>
     </svg>
 
-    <svg x="-60" y="-3" xmlns="http://www.w3.org/2000/svg" onClick={toggleNode}>
-      {/* <line
-    x1="10"
-    x2="50"
-    y1="110"
-    y2="150"
-    stroke="black"
-    stroke-width="5"
-  /> */}
+    <svg
+      x="-70"
+      y="-10"
+      xmlns="http://www.w3.org/2000/svg"
+      onClick={toggleNode}
+    >
       <g>
-        <circle r="30" fill="#ff7071" cx="30" cy="30" />
+        <circle r="35" fill="#ff7071" cx="35" cy="35" />
         <text
-          x="30"
-          y="30"
+          x="35"
+          y="35"
           font-family="Arial"
           font-size="15"
           text-anchor="middle"
@@ -63,12 +60,17 @@ export const maleNode = (nodeDatum, toggleNode) => (
 
 export const femaleNode = (nodeDatum, toggleNode) => (
   <>
-    <svg x="-55" y="-3" xmlns="http://www.w3.org/2000/svg" onClick={toggleNode}>
+    <svg
+      x="-70"
+      y="-10"
+      xmlns="http://www.w3.org/2000/svg"
+      onClick={toggleNode}
+    >
       <g>
-        <circle r="30" fill="#ff7071" cx="30" cy="30" />
+        <circle r="35" fill="#ff7071" cx="35" cy="35" />
         <text
-          x="29"
-          y="29"
+          x="35"
+          y="35"
           font-family="Arial"
           font-size="20"
           text-anchor="middle"
@@ -82,9 +84,9 @@ export const femaleNode = (nodeDatum, toggleNode) => (
 
     <svg x="5" xmlns="http://www.w3.org/2000/svg" onClick={toggleNode}>
       <g>
-        <rect width="50" height="50" fill="#fefefefe"></rect>
+        <rect width="90" height="50" fill="#fefefefe"></rect>
         <text
-          x="20"
+          x="10"
           y="30"
           font-family="Arial"
           font-size="20"

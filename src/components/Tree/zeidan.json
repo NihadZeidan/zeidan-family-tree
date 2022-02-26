@@ -22,29 +22,193 @@
           "name": "جادالله",
           "wife": "فرحة منصور",
           "gender": "male",
-          "attributes": {
-            "زوجته": "فرحة منصور"
-          },
           "children": [
             {
               "name": "جميل",
-              "wife": null,
-              "gender": "male"
+              "wife": "هيلانة كعبر",
+              "gender": "male",
+              "children": [
+                {
+                  "name": "عيدا",
+                  "gender": "female",
+                  "husband": null
+                },
+                {
+                  "name": "عبدالله",
+                  "gender": "male",
+                  "wife": "ايلين خروفة",
+                  "children": [
+                    {
+                      "name": "الهام",
+                      "gender": "female",
+                      "husband": "مينا سلمان"
+                    },
+                    {
+                      "name": "لينا",
+                      "gender": "female",
+                      "husband": "هايل الزعمط"
+                    },
+                    {
+                      "name": "ريتا",
+                      "gender": "female",
+                      "husband": "عماد"
+                    },
+                    {
+                      "name": "وليد",
+                      "gender": "male",
+                      "wife": "آن"
+                    },
+                    {
+                      "name": "وليم",
+                      "gender": "male",
+                      "wife": "نسرين زبانه"
+                    },
+                    {
+                      "name": "رامي",
+                      "gender": "male",
+                      "wife": "سها ضواهر"
+                    },
+                    {
+                      "name": "جميل",
+                      "gender": "male",
+                      "wife": "احلام"
+                    }
+                  ]
+                },
+                {
+                  "name": "موريس",
+                  "gender": "male",
+                  "wife": null
+                },
+                {
+                  "name": "الفريد",
+                  "gender": "male",
+                  "wife": null
+                },
+                {
+                  "name": "البير",
+                  "gender": "male",
+                  "wife": null
+                },
+
+                {
+                  "name": "جريس",
+                  "gender": "male",
+                  "wife": null
+                }
+              ]
             },
             {
               "name": "توفيق",
-              "wife": null,
-              "gender": "male"
+              "wife": "نعمة جعنينة",
+              "gender": "male",
+              "children": [
+                {
+                  "name": "ديانا",
+                  "gender": "female",
+                  "husband": null
+                },
+                {
+                  "name": "فرحة",
+                  "gender": "female",
+                  "husband": null
+                },
+                {
+                  "name": "سميرة",
+                  "gender": "female",
+                  "husband": null
+                },
+                {
+                  "name": "ناهدة",
+                  "gender": "female",
+                  "husband": null
+                },
+                {
+                  "name": "ريما",
+                  "gender": "female",
+                  "husband": null
+                },
+                {
+                  "name": "ريتا",
+                  "gender": "female",
+                  "husband": null
+                },
+                {
+                  "name": "سليم",
+                  "gender": "male",
+                  "wife": null
+                },
+                {
+                  "name": "نقولا",
+                  "gender": "male",
+                  "wife": null
+                }
+              ]
             },
             {
               "name": "جورج",
-              "wife": null,
+              "wife": "نعمة ابو عوض",
               "gender": "male"
             },
             {
               "name": "فكتور",
-              "wife": null,
-              "gender": "male"
+              "wife": "وزنة حبايبة",
+              "gender": "male",
+              "children": [
+                {
+                  "name": "عماد",
+                  "gender": "male",
+                  "wife": "ريتا زيدان",
+                  "children": [
+                    {
+                      "name": "ريم",
+                      "gender": "female",
+                      "husband": null
+                    },
+                    {
+                      "name": "عيسى",
+                      "gender": "male",
+                      "wife": null
+                    },
+                    {
+                      "name": "فكتور",
+                      "gender": "male",
+                      "wife": null
+                    },
+                    {
+                      "name": "نهاد",
+                      "gender": "male",
+                      "wife": null
+                    },
+
+                    {
+                      "name": "ايمن",
+                      "gender": "male",
+                      "wife": null
+                    }
+                  ]
+                },
+                {
+                  "name": "فؤاد",
+                  "gender": "male",
+                  "wife": "ماري النبر"
+                },
+                {
+                  "name": "مراد",
+                  "gender": "male",
+                  "wife": null
+                },
+                {
+                  "name": "نهاد",
+                  "gender": "male",
+                  "wife": null
+                },
+                {
+                  "name": "جهاد",
+                  "gender": "male",
+                  "wife": null
+                }
+              ]
             },
             {
               "name": "شكري",
@@ -59,31 +223,35 @@
           "gender": "male",
           "children": [
             {
-              "name": "جبرا",
-              "gender": "male"
-            },
-            {
-              "name": "بشارة",
-              "gender": "male"
-            },
-            {
               "name": "فريدة",
               "gender": "female",
-              "husband": "?"
+              "husband": "سليم حبايبة"
             },
             {
               "name": "اولقا",
               "gender": "female",
               "husband": "?"
+            },
+            {
+              "name": "جبرا",
+              "wife": "ميليا حزبون",
+              "gender": "male"
+            },
+            {
+              "name": "بشارة",
+              "wife": null,
+              "gender": "male"
             }
           ]
         },
         {
           "name": "عطاالله",
+          "wife": "اليونانية",
           "gender": "male"
         },
         {
           "name": "فرح",
+          "wife": null,
           "gender": "male"
         }
       ]
