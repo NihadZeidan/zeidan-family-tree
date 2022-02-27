@@ -80,12 +80,51 @@
                     {
                       "name": "الهام",
                       "gender": "female",
-                      "husband": "مينا سلمان"
+                      "husband": "مينا سلمان",
+                      "children": [
+                        {
+                          "name": "مي",
+                          "gender": "female",
+                          "husband": "عمر عمارين"
+                        },
+                        {
+                          "name": "منال",
+                          "gender": "female",
+                          "husband": "جليل دبور"
+                        },
+                        {
+                          "name": "عيسى",
+                          "gender": "male",
+                          "wife": "ليانا دبور"
+                        },
+                        {
+                          "name": "عصام",
+                          "gender": "male",
+                          "wife": "امندا غنيم"
+                        }
+                      ]
                     },
                     {
                       "name": "لينا",
                       "gender": "female",
-                      "husband": "هايل الزعمط"
+                      "husband": "هايل الزعمط",
+                      "children": [
+                        {
+                          "name": "هلا",
+                          "gender": "female",
+                          "husband": null
+                        },
+                        {
+                          "name": "رغد",
+                          "gender": "female",
+                          "husband": "الجدع"
+                        },
+                        {
+                          "name": "رعد",
+                          "gender": "male",
+                          "wife": "هبة ساكس"
+                        }
+                      ]
                     },
                     {
                       "name": "ريتا",
@@ -95,22 +134,75 @@
                     {
                       "name": "وليد",
                       "gender": "male",
-                      "wife": "آن"
+                      "wife": "آن",
+                      "children": [
+                        {
+                          "name": "ليونيل",
+                          "gender": "male",
+                          "wife": null
+                        },
+                        {
+                          "name": "هيجو",
+                          "gender": "male",
+                          "wife": null
+                        }
+                      ]
                     },
                     {
                       "name": "وليم",
                       "gender": "male",
-                      "wife": "نسرين زبانه"
+                      "wife": "نسرين زبانه",
+                      "children": [
+                        {
+                          "name": "تيا",
+                          "gender": "female",
+                          "husband": null
+                        },
+                        {
+                          "name": "يزن",
+                          "gender": "male",
+                          "wife": "هبة ساكس"
+                        }
+                      ]
                     },
                     {
                       "name": "رامي",
                       "gender": "male",
-                      "wife": "سها ضواهر"
+                      "wife": "سها ضواهر",
+                      "children": [
+                        {
+                          "name": "بيان",
+                          "gender": "female",
+                          "husband": null
+                        },
+                        {
+                          "name": "جوزيف",
+                          "gender": "male",
+                          "wife": null
+                        },
+                        {
+                          "name": "جاك",
+                          "gender": "male",
+                          "wife": null
+                        }
+                      ]
                     },
                     {
                       "name": "جميل",
                       "gender": "male",
-                      "wife": "احلام"
+                      "wife": "احلام",
+                      "children": [
+                        {
+                          "name": "جاك",
+                          "gender": "male",
+                          "wife": null
+                        },
+                        {
+                          "name": "جريس",
+                          "gender": "male",
+                          "wife": null
+                        }
+                      ]
                     }
                   ]
                 },
