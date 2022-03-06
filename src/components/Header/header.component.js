@@ -1,6 +1,6 @@
 import "./header.styles.css";
 
-function Header({ setOpenMessageForm, openMessageForm }) {
+function Header() {
   return (
     <header id="header">
       <div id="title">
@@ -9,13 +9,15 @@ function Header({ setOpenMessageForm, openMessageForm }) {
       </div>
       <h4 id="supervision">اعداد : نهاد عماد فكتور جادالله عبدالله زيدان</h4>
 
-      <button
+      <a
         id="button"
         type="button"
-        onClick={() => setOpenMessageForm(!openMessageForm)}
+        href="https://forms.gle/77Bm6oh27tVed2K86"
+        target="_blank"
+        rel="noreferrer"
       >
         للتواصل وارسال المعلومات
-      </button>
+      </a>
     </header>
   );
 }

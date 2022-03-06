@@ -22,8 +22,8 @@ export default function ZeidanFamilyTree() {
     <div id="treeWrapper">
       <Tree
         renderCustomNodeElement={renderCustomSvgNode}
-        depthFactor={250}
-        // pathFunc={"step"}
+        depthFactor={290}
+        pathFunc={"step"}
         // initialDepth={1}
         zoom={0.4}
         data={zeidan}
